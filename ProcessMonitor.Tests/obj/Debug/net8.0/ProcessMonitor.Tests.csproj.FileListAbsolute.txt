@@ -1,0 +1,6 @@
+C:\Users\Andreea\Desktop\testVeeam\ProcessMonitor.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_ProcessMonitor.Tests
+C:\Users\Andreea\Desktop\testVeeam\ProcessMonitor.Tests\obj\Debug\net8.0\ProcessMonitor.Tests.csproj.AssemblyReference.cache
+C:\Users\Andreea\Desktop\testVeeam\ProcessMonitor.Tests\obj\Debug\net8.0\ProcessMonitor.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andreea\Desktop\testVeeam\ProcessMonitor.Tests\obj\Debug\net8.0\ProcessMonitor.Tests.AssemblyInfoInputs.cache
+C:\Users\Andreea\Desktop\testVeeam\ProcessMonitor.Tests\obj\Debug\net8.0\ProcessMonitor.Tests.AssemblyInfo.cs
+C:\Users\Andreea\Desktop\testVeeam\ProcessMonitor.Tests\obj\Debug\net8.0\ProcessMonitor.Tests.csproj.CoreCompileInputs.cache
